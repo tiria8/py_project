@@ -1,3 +1,4 @@
-from funcs import sum
+from funcs import sum, sub
 
-sum(1, 1)
+print (sum(1, 1))
+print (sub (2, 1))
